@@ -111,10 +111,10 @@ di-19-zhang-cun-chu/19.15.-gao-ke-yong-xing-cun-chu-hast
 di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/20.1.-gai-shu
 di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/20.2.raid0-tiao-dai
 di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/20.3.raid1-jing-xiang
-di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/2raid3-dai-you-zhuan-yong-qi-ou-xiao-yan-de-zi-jie-ji-tiao-dai.md)
+di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/20.4.raid3-dai-you-zhuan-yong-qi-ou-xiao-yan-de-zi-jie-ji-tiao-dai
 di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/20.5.-ruan-jian-raid-she-bei
 di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/20.6.geom-gate-wang-luo-she-bei
-di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/2-wei-ci-pan-she-bei-tian-jia-juan-biao.md)
+di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/20.7.-wei-ci-pan-she-bei-tian-jia-juan-biao
 di-20-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/20.8.-tong-guo-geom-shi-xian-ufs-ri-zhi
 ```
 ## Z 文件系统（ZFS）

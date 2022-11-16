@@ -67,7 +67,7 @@ di-31-zhang-wang-luo-fu-wu-qi/31.6.-dong-tai-zhu-ji-she-zhi-xie-yi-dhcp
 di-31-zhang-wang-luo-fu-wu-qi/31.7.-yu-ming-xi-tong-dns
 di-31-zhang-wang-luo-fu-wu-qi/31.8.apache-http-fu-wu-qi
 di-31-zhang-wang-luo-fu-wu-qi/31.9.-wen-jian-chuan-shu-xie-yi-ftp
-di-31-zhang-wang-luo-fu-wu-qi/31-yong-yu-microsoft-windows-ke-hu-duan-de-wen-jian-he-da-yin-fu-wu-samba.md)
+di-31-zhang-wang-luo-fu-wu-qi/31.10.-yong-yu-microsoft-windows-ke-hu-duan-de-wen-jian-he-da-yin-fu-wu-samba
 di-31-zhang-wang-luo-fu-wu-qi/31.11.-yong-ntp-jin-hang-shi-zhong-tong-bu
 di-31-zhang-wang-luo-fu-wu-qi/31.12.iscsi-target-he-initiator-de-pei-zhi
 ```

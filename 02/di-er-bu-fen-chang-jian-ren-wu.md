@@ -65,8 +65,8 @@ di-10-zhang-da-yin/10.6.-qi-ta-da-yin-xi-tong
 
 di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.1.-gai-shu
 di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.2.-pei-zhi-linux-er-jin-zhi-jian-rong-ceng
-di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/1-cong-freebsd-ruan-jian-bao-an-zhuang-centos-ji-chu-xi-tong.md)
-* [11.4.使用 debootstrap(8) 构建 Debian / Ubuntu 基本系统i-11-zhang-linux-er-jin-zhi-jian-rong-c11.4.-shi-yong-debootstrap8-gou-jian-debian-ubuntu-ji-ben-xi-tong.md)
+di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/10.3.-cong-freebsd-ruan-jian-bao-an-zhuang-centos-ji-chu-xi-tong
+di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.4.-shi-yong-debootstrap8-gou-jian-debian-ubuntu-ji-ben-xi-tong
 di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.5.-gao-ji-zhu-ti
 ```
 ## WINE
