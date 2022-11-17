@@ -39,6 +39,8 @@ jobs:
       - name: install pkg
         run:
           pip install git+https://github.com/d2l-ai/d2l-book
+      - name: pandoc
+        uses: nikeee/setup-pandoc@v1
       - name: build
         run:
           d2lbook build html
