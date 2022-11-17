@@ -17,11 +17,15 @@ def main():
     with open(tex_file, 'r') as f:
         lines = f.read().split('\n')
     
+    flag = False
+    
     for i,_ in enumerate(lines):
         if '\documentclass[' in lines[i]:
             lines[i] = '\documentclass[letterpaper,10pt,english,oneside]{sphinxmanual}'
         s = re.findall('\\\\(part)\{|\\\\(chapter)\{|\\\\(section)\{|\\\\(subsection)\{|\\\\(subsubsection)\{|\\\\(subsubsubsection)\{|\\\\(subsubsubsubsection)\{',lines[i])
-        if s and '{FreeBSD 手册}' not in lines[i] and '{概述}' not in lines[i]:
+        if flag == False and '{前言}' in lines[i]:
+            flag = True
+        if s and flag:
             ss = set(s[0])
             ss.remove('')
             nl = list(ss)[0]
