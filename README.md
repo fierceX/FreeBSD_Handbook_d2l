@@ -6,12 +6,12 @@
 
 ## 编译
 1. 先安装d2lbook，可以参考：https://book.d2l.ai/
-2. 编译PDF：`d2lbook build pdf`，会在`_build`文件夹下生成pdf文件夹，所需要的tex文件和图片资源文件都会在此文件夹下生成。
-3. 修改`FreeBSD_Handbook.tex`文件：
-   1. 在`documentclass`中增加`oneside`，用于减少章节后面的空白页面
-   2. 修改logo的中的`sphinxincludegraphics`为`includegraphics`，并且增加`[width=0.4\linewidth]`，用于调整logo的大小
-   3. 将所有的章节标记增加一级，即将`chapter`提升至`part`，将`section`提升至`chapter`，将`subsection`提升至`section`等等。但是需要注意，前两章不需要提升（即**FreeBSD 手册**和**概述**）
-4. 重新编译tex: `xelatex FreeBSD_Handbook.tex` 运行两次
+2. 编译PDF：`d2lbook build pdf`，会在`_build`文件夹下生成pdf文件夹，所需要的tex文件和图片资源文件都会在此文件夹下生成。  
+~~3. 修改`FreeBSD_Handbook.tex`文件：~~
+   ~~1. 在`documentclass`中增加`oneside`，用于减少章节后面的空白页面~~
+   ~~2. 修改logo的中的`sphinxincludegraphics`为`includegraphics`，并且增加`[width=0.4\linewidth]`，用于调整logo的大小~~
+   ~~3. 将所有的章节标记增加一级，即将`chapter`提升至`part`，将`section`提升至`chapter`，将`subsection`提升至`section`等等。但是需要注意，前两章不需要提升（即**FreeBSD 手册**和**概述**）~~
+~~4. 重新编译tex: `xelatex FreeBSD_Handbook.tex` 运行两次~~
 
 ## 已知问题
 1. pandoc转rst格式时，会自动分割超长行，会导致带链接的行被拆分，导致后续的格式错误。解决办法是修改`nbconvert`库下的代码
