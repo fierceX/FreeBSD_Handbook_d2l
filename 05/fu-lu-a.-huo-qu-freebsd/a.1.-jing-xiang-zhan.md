@@ -35,6 +35,9 @@ FreeBSD 网站(<https://www.FreeBSD.org> 和 <https://docs.FreeBSD.org>)没有�
 | [France](hostmaster@fr.FreeBSD.org)  | ftp.fr.FreeBSD.org | [http](http://ftp.fr.freebsd.org/pub/FreeBSD) [http_v6](http://ftp.fr.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.fr.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp.fr.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.fr.FreeBSD.org) [rsync_v6](rsync://ftp.fr.FreeBSD.org) |
 | |ftp3.fr.FreeBSD.org|[ftp](ftp://ftp3.fr.freebsd.org/pub/FreeBSD)|
 | |ftp6.fr.FreeBSD.org|[http](http://ftp6.fr.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp6.fr.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp6.fr.FreeBSD.org)|
+
+|**国家/地区**|**域名**|**协议**|
+|:---:|:---:|:---:|
 | [Germany](de-bsd-hubs@de.FreeBSD.org) | ftp.de.FreeBSD.org  | [ftp](ftp://ftp.de.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp.de.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.de.FreeBSD.org) [rsync_v6](rsync://ftp.de.FreeBSD.org) |
 |         | ftp1.de.FreeBSD.org | [http](http://ftp1.de.freebsd.org/pub/FreeBSD) [http_v6](http://ftp1.de.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp1.de.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp1.de.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp1.de.FreeBSD.org) [rsync_v6](rsync://ftp1.de.FreeBSD.org) |
 ||ftp2.de.FreeBSD.org|[http](http://ftp2.de.freebsd.org/pub/FreeBSD) [http_v6](http://ftp2.de.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp2.de.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp2.de.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp2.de.FreeBSD.org) [rsync_v6](rsync://ftp2.de.FreeBSD.org)|
@@ -47,6 +50,9 @@ FreeBSD 网站(<https://www.FreeBSD.org> 和 <https://docs.FreeBSD.org>)没有�
 | |ftp3.jp.FreeBSD.org|[http](http://ftp3.jp.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp3.jp.FreeBSD.org)|
 | |ftp4.jp.FreeBSD.org|[ftp](ftp://ftp4.jp.freebsd.org/pub/FreeBSD)|
 | |ftp6.jp.FreeBSD.org|[http](http://ftp6.jp.freebsd.org/pub/FreeBSD) [http_v6](http://ftp6.jp.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp6.jp.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp6.jp.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp6.jp.FreeBSD.org) [rsync_v6](rsync://ftp6.jp.FreeBSD.org)|
+
+|**国家/地区**|**域名**|**协议**|
+|:---:|:---:|:---:|
 |[Korea](hostmaster@kr.FreeBSD.org)|ftp.kr.FreeBSD.org|[http](http://ftp.kr.freebsd.org/pub/FreeBSD) [https](https://ftp.kr.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.kr.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.kr.FreeBSD.org)|
 | |ftp2.kr.FreeBSD.org|[rsync](rsync://ftp2.kr.FreeBSD.org)|
 |[Latvia](hostmaster@lv.FreeBSD.org)|ftp.lv.FreeBSD.org|[ http](http://ftp.lv.freebsd.org/pub/Freebsd) [ftp](ftp://ftp.lv.freebsd.org/pub/freebsd)|
@@ -61,6 +67,9 @@ FreeBSD 网站(<https://www.FreeBSD.org> 和 <https://docs.FreeBSD.org>)没有�
 | [South Africa](hostmaster@za.FreeBSD.org) | ftp.za.FreeBSD.org  | [https](https://ftp.za.freebsd.org/pub/FreeBSD) [https_v6](https://ftp.za.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.za.FreeBSD.org) [rsync_v6](rsync://ftp.za.FreeBSD.org) |
 |              | ftp2.za.FreeBSD.org | [http](http://ftp2.za.freebsd.org/pub/FreeBSD) [http_v6](http://ftp2.za.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp2.za.freebsd.org/pub/FreeBSD) |
 | |ftp4.za.FreeBSD.org|[http](http://ftp4.za.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp4.za.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp4.za.FreeBSD.org)|
+
+|**国家/地区**|**域名**|**协议**|
+|:---:|:---:|:---:|
 |[Sweden](hostmaster@se.FreeBSD.org)|ftp.se.FreeBSD.org|[http](http://ftp.se.freebsd.org/pub/FreeBSD) [http_v6](http://ftp.se.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.se.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp.se.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.se.FreeBSD.org) [rsync_v6](rsync://ftp.se.FreeBSD.org)|
 |[Taiwan](hostmaster@se.FreeBSD.org)|ftp4.tw.FreeBSD.org|[https](https://ftp4.tw.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp4.tw.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp4.tw.FreeBSD.org)|
 ||ftp5.tw.FreeBSD.org|[http](http://ftp5.tw.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp5.tw.freebsd.org/pub/FreeBSD)|
