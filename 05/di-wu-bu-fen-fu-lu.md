@@ -45,6 +45,13 @@ fu-lu-d.-openpgp-mi-yue/d.1.-guan-fang-cheng-yuan
 shu-yu-biao
 ```
 
+## 术语翻译对照表
+```toc
+:maxdepth: 1
+
+yi-zhe-shuo-ming
+```
+
 ## 后记
 ```toc
 :maxdepth: 1
