@@ -4,7 +4,8 @@
 
 从 2020 年 12 月起，FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的基本源代码和文档。从 2021 年 4 月起，FreeBSD 使用 git 作为唯一的版本控制系统来存储所有的 FreeBSD ports。
 
->**注意**
+>
+> **注意**
 >
 >Git 通常是一个开发者工具。用户可能更喜欢使用 `freebsd-update` ([“更新 FreeBSD”](https://docs.freebsd.org/en/books/handbook/cutting-edge/index.html#updating-upgrading-freebsdupdate)) 来更新 FreeBSD 基本系统，以及 `git` (["使用 ports"](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports-using)) 来更新 FreeBSD ports。
 
@@ -42,6 +43,7 @@ Git 使用链接来指定一个仓库。有三个不同的仓库，`src` 是指 
 ```
 # git clone -o freebsd https://git.FreeBSD.org/src.git /usr/src
 ```
+
 `-o freebsd` 选项了指定了源；根据 FreeBSD 文档的惯例，源被假定为 `freebsd`。因为初始检出必须下载远程仓库的完整分支，所以可能需要一些时间。请耐心等待。
 
 最开始的工作树包含主分支的源代码，对应的是 CURRENT。要切换到 13-STABLE：
@@ -50,12 +52,14 @@ Git 使用链接来指定一个仓库。有三个不同的仓库，`src` 是指 
 # cd /usr/src
 # git checkout stable/13
 ```
+
 可以用 `git pull` 更新工作树。要更新上面的例子中创建的 **/usr/src**，请使用：
 
 ```
 # cd /usr/src
 # git pull --rebase
 ```
+
 更新比检出要快得多，只传输有变化的文件。
 
 ## A.2.4.基于网络的资源库浏览器

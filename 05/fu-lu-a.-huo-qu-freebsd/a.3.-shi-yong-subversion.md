@@ -4,7 +4,8 @@
 
 从 2020 年 12 月起，FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的源代码和文档。在 stable/11, stable/12 和相关的 releng 分支上的 git repo 的改动会被导出到 subversion 仓库中。这种输出将持续到这些分支的生命周期。从 2012 年 7 月到 2021 年 3 月，FreeBSD 使用 Subversion 作为唯一的版本控制系统来存储所有 FreeBSD 的 ports。从 2021 年 4 月起，FreeBSD 使用 git 作为存储所有 FreeBSD ports 的唯一版本控制系统。
 
->**注意**
+>
+> **注意**
 >
 >Subversion 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update（[“更新 FreeBSD”](https://docs.freebsd.org/en/books/handbook/cutting-edge/index.html#updating-upgrading-freebsdupdate)）来更新 FreeBSD 基本系统，以及 `git` ([“使用 ports”](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports-using)) 来更新 FreeBSD ports。在 2021 年 3 月之后，subversion 的使用只针对传统的分支（`stable/11` 和 `stable/12`）。
 
@@ -37,7 +38,8 @@ Subversion 可以从 ports  中安装:
 
 要获取一个干净的源代码拷贝到本地目录中，请使用 svn。这个目录中的文件被称为本地工作副本。
 
->**警告**
+>
+> **警告**
 >
 >在第一次使用 `checkout` 之前，移动或删除现有的目标目录。在现有的非 `svn` 目录上进行检出会导致现有文件和从版本库带入的文件之间的冲突。**
 

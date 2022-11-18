@@ -38,14 +38,14 @@ jobs:
           python-version: '3.9'
       - name: install pkg
         run:
-          pip install git+https://github.com/d2l-ai/d2l-book
+          pip install git+https://github.com/fierceX/d2l-book
       - name: pandoc
         uses: nikeee/setup-pandoc@v1
       - name: set texlive
         uses: teatimeguest/setup-texlive-action@v2.5.0
       - name: build
         run:
-          d2lbook build html pdf
+          d2lbook build html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
