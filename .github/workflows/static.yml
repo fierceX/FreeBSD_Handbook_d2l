@@ -45,8 +45,7 @@ jobs:
         uses: teatimeguest/setup-texlive-action@v2.5.0
       - name: build
         run:
-          d2lbook build html
-          d2lbook build pdf
+          d2lbook build html pdf
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
