@@ -41,11 +41,25 @@ jobs:
           pip install git+https://github.com/fierceX/d2l-book
       - name: pandoc
         uses: nikeee/setup-pandoc@v1
-      - name: set texlive
-        uses: teatimeguest/setup-texlive-action@v2.5.0
       - name: build
         run:
-          d2lbook build html
+          d2lbook build html latex
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          working_directory: '_build/pdf'
+          latexmk_use_xelatex: true
+          root_file: FreeBSD_Handbook.tex
+      - name: Upload PDF file
+        uses: actions/upload-artifact@v3
+        with:
+          name: PDF
+          path: FreeBSD_Handbook.pdf
+      - name: Generate release tag
+        id: tag
+        run: |
+          echo "::set-output name=release_tag::FreeBSD_Handbook_d2l_$(date +"%Y.%m.%d_%H-%M")"
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
