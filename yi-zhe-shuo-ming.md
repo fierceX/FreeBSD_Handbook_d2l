@@ -16,7 +16,9 @@
 
 > **获取 PDF 文档**
 >
-> **当前文档的 PDF 实时更新地址为** [**https://handbook.bsdcn.org/FreeBSD-简体中文手册.pdf**](https://handbook.bsdcn.org/FreeBSD-简体中文手册.pdf)**，历史存档在 [Release](https://github.com/FreeBSD-Ask/Handbook/releases)。**
+> [**当前文档的 PDF 实时更新**](https://handbook.bsdcn.org/FreeBSD-简体中文手册.pdf)   
+> 
+> [**历史存档**](https://github.com/FreeBSD-Ask/Handbook/releases)。
 
 > **手册版本说明**
 >
