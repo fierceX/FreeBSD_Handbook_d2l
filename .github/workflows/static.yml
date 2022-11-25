@@ -54,7 +54,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: PDF
-          path: FreeBSD_Handbook.pdf
+          path: '_build/pdf/FreeBSD_Handbook.pdf'
       - name: Generate release tag
         id: tag
         run: |
