@@ -50,13 +50,16 @@ jobs:
           working_directory: '_build/pdf'
           args: -xelatex -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
           root_file: FreeBSD_Handbook.tex
-      - name: Upload file
+      - name: Upload PDF file
         uses: actions/upload-artifact@v3
         with:
           name: PDF
-          path: |
-            '_build/pdf/FreeBSD_Handbook.pdf'
-            '_build/epub/FreeBSDHandbook.epub'
+          path: '_build/pdf/FreeBSD_Handbook.pdf'
+      - name: Upload EPUB file
+        uses: actions/upload-artifact@v3
+        with:
+          name: EPUB
+          path: '_build/epub/FreeBSDHandbook.epub'
       - name: cp files
         run: |
           mkdir _build/html/files
