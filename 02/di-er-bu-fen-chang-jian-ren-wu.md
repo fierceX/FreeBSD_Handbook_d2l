@@ -15,7 +15,7 @@
 其中的一些章节建议预读相关文件，这一点在每章开头的提要中都有说明。
 
 
-## 桌面应用程序
+## 第七章 桌面应用程序
 ```toc
 :maxdepth: 1
 
@@ -25,7 +25,7 @@ di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.3.-sheng-chan-li-gong-ju
 di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.4.-wen-dang-yue-du-qi
 di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.5.-cai-wu
 ```
-## 多媒体
+## 第八章 多媒体
 ```toc
 :maxdepth: 1
 
@@ -37,7 +37,7 @@ di-8-zhang-duo-mei-ti/8.5.-dian-shi-ka
 di-8-zhang-duo-mei-ti/8.6.mythtv
 di-8-zhang-duo-mei-ti/8.7.-tu-xiang-sao-miao-yi
 ```
-## 配置 FreeBSD 内核
+## 第九章 配置 FreeBSD 内核
 ```toc
 :maxdepth: 1
 
@@ -48,7 +48,7 @@ di-9-zhang-pei-zhi-freebsd-nei-he/9.4.-pei-zhi-wen-jian
 di-9-zhang-pei-zhi-freebsd-nei-he/9.5.-bian-yi-yu-an-zhuang-ding-zhi-nei-he
 di-9-zhang-pei-zhi-freebsd-nei-he/9.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu
 ```
-## 打印
+## 第十章 打印
 ```toc
 :maxdepth: 1
 
@@ -59,7 +59,7 @@ di-10-zhang-da-yin/10.4.-zhi-jie-da-yin
 di-10-zhang-da-yin/10.5.lpd-hang-shi-da-yin-ji-cheng-xu
 di-10-zhang-da-yin/10.6.-qi-ta-da-yin-xi-tong
 ```
-## Linux 二进制兼容层
+## 第十一章 Linux 二进制兼容层
 ```toc
 :maxdepth: 1
 
@@ -69,7 +69,7 @@ di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/10.3.-cong-freebsd-ruan-jian-bao-an-
 di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.4.-shi-yong-debootstrap8-gou-jian-debian-ubuntu-ji-ben-xi-tong
 di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.5.-gao-ji-zhu-ti
 ```
-## WINE
+## 第十二章 WINE
 ```toc
 :maxdepth: 1
 

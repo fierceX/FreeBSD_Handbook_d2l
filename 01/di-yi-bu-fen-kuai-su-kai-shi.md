@@ -15,7 +15,7 @@
 正文中的前向引用数量已经保持在最低水平，以尽量减少翻页的可能，因此你可以流畅地阅读此部分。
 
 
-## 简介
+## 第一章 简介
 ```toc
 :maxdepth: 1
 
@@ -24,7 +24,7 @@ di-1-zhang-jian-jie/1.2.-huan-ying-lai-dao-freebsd
 di-1-zhang-jian-jie/1.3.-guan-yu-freebsd-xiang-mu
 ```
 
-## 安装 FreeBSD
+## 第二章 安装 FreeBSD
 ```toc
 :maxdepth: 1
 
@@ -41,7 +41,7 @@ di-2-zhang-an-zhuang-freebsd/2.10.-gu-zhang-pai-chu
 di-2-zhang-an-zhuang-freebsd/2.11.-shi-yong-live-cd
 ```
 
-## FreeBSD 基础
+## 第三章 FreeBSD 基础
 ```toc
 :maxdepth: 1
 
@@ -58,7 +58,7 @@ di-3-zhang-freebsd-ji-chu/3.10.-wen-ben-bian-ji-qi
 di-3-zhang-freebsd-ji-chu/3.11.-she-bei-he-she-bei-jie-dian
 di-3-zhang-freebsd-ji-chu/3.12.-shou-ce-ye
 ```
-## 安装应用程序：软件包和 Ports
+## 第四章 安装应用程序：软件包和 Ports
 
 ```toc
 :maxdepth: 1
@@ -73,7 +73,7 @@ di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.7.-an-zhuang-ho
 di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.8.-ru-he-chu-li-sun-huai-de-port
 ```
 
-## X Window 系统
+## 第五章 X Window 系统
 ```toc
 :maxdepth: 1
 
@@ -88,7 +88,7 @@ di-5-zhang-xwindow-xi-tong/5.8.-shi-yong-compiz-fusion
 di-5-zhang-xwindow-xi-tong/5.9.-gu-zhang-pai-chu
 ```
 
-## FreeBSD 中的 Wayland
+## 第六章 FreeBSD 中的 Wayland
 ```toc
 :maxdepth: 1
 

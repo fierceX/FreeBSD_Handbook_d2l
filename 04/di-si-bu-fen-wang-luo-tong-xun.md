@@ -16,7 +16,7 @@ FreeBSD 是最广泛部署的高性能网络服务器的操作系统之一。这
 
 这些章节是为了在需要时查阅而设计的。它们不需要按照任何特定的顺序进行阅读，也没有必要在网络环境中使用 FreeBSD 之前阅读所有的章节。
 
-## 串行通信
+## 第二十八章 串行通信
 ```toc
 :maxdepth: 1
 
@@ -27,7 +27,7 @@ di-28-zhang-chuan-hang-tong-xin/28.4.-bo-ru-fu-wu
 di-28-zhang-chuan-hang-tong-xin/28.5.-bo-chu-fu-wu
 di-28-zhang-chuan-hang-tong-xin/28.6.-she-zhi-chuan-hang-kong-zhi-tai
 ```
-## PPP
+## 第二十九章 PPP
 ```toc
 :maxdepth: 1
 
@@ -37,7 +37,7 @@ di-29-zhang-ppp/29.3.ppp-lian-jie-de-gu-zhang-pai-chu
 di-29-zhang-ppp/29.4.-shi-yong-yi-tai-wang-ppppppoe
 di-29-zhang-ppp/29.5.-shi-yong-atm-shang-de-ppp-pppoa
 ```
-## 电子邮件
+## 第三十章 电子邮件
 ```toc
 :maxdepth: 1
 
@@ -54,7 +54,7 @@ di-30-zhang-dian-zi-you-jian/30.10.-you-jian-yong-hu-dai-li
 di-30-zhang-dian-zi-you-jian/30.11.-shi-yong-fetchmail
 di-30-zhang-dian-zi-you-jian/30.12.-shi-yong-procmail
 ```
-## 网络服务器
+## 第三十一章 网络服务器
 ```toc
 :maxdepth: 1
 
@@ -71,7 +71,7 @@ di-31-zhang-wang-luo-fu-wu-qi/31.10.-yong-yu-microsoft-windows-ke-hu-duan-de-wen
 di-31-zhang-wang-luo-fu-wu-qi/31.11.-yong-ntp-jin-hang-shi-zhong-tong-bu
 di-31-zhang-wang-luo-fu-wu-qi/31.12.iscsi-target-he-initiator-de-pei-zhi
 ```
-## 防火墙
+## 第三十二章 防火墙
 ```toc
 :maxdepth: 1
 
@@ -82,7 +82,7 @@ di-32-zhang-fang-huo-qiang/32.4.ipfw
 di-32-zhang-fang-huo-qiang/32.5.ipfilter-ipf
 di-32-zhang-fang-huo-qiang/32.6.blacklistd
 ```
-## 高级网络
+## 第三十三章 高级网络
 ```toc
 :maxdepth: 1
 
