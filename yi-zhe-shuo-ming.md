@@ -4,7 +4,9 @@
 
 本手册内容由**[FreeBSD 中文社区](https://handbook.bsdcn.org)**翻译，官方仓库为：**[https://github.com/FreeBSD-Ask/handbook](https://github.com/FreeBSD-Ask/handbook)**
 
-为提升阅读体验，使用[d2lbook](https://book.d2l.ai/)进行编译成HTML和PDF文档。
+为提升阅读体验，使用[d2lbook](https://book.d2l.ai/)进行编译成HTML和PDF、EPUB文档。
+
+当前同步中文仓库commit:[2022.11.14_14-21](https://github.com/FreeBSD-Ask/Handbook/commit/9ee9830f54e1aeacd267cf33e744d83b99c09127)
 
 
 
