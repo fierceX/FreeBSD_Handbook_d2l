@@ -43,7 +43,7 @@ jobs:
         uses: nikeee/setup-pandoc@v1
       - name: build
         run:
-          d2lbook build html latex
+          d2lbook build html latex epub
       - name: Compile LaTeX document
         uses: dante-ev/latex-action@latest
         with:
@@ -54,12 +54,13 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: PDF
-          path: '_build/pdf/FreeBSD_Handbook.pdf'
-      - name: Generate release tag
-        id: tag
-        run: |
-          echo "::set-output name=release_tag::FreeBSD_Handbook_d2l_$(date +"%Y.%m.%d_%H-%M")"
-      
+          path: 
+            '_build/pdf/FreeBSD_Handbook.pdf'
+            '_build/epub/FreeBSDHandbook.pdf'
+      - name: cp files
+        run:
+          cp _build/pdf/FreeBSD_Handbook.pdf _build/html/files/
+          cp _build/epub/FreeBSDHandbook.epub _build/html/files/FreeBSD_Handbook.epub
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
