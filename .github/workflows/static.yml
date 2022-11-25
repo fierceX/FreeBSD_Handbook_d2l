@@ -58,7 +58,8 @@ jobs:
             '_build/pdf/FreeBSD_Handbook.pdf'
             '_build/epub/FreeBSDHandbook.epub'
       - name: cp files
-        run:
+        run: |
+          mkdir _build/html/files
           cp _build/pdf/FreeBSD_Handbook.pdf _build/html/files/
           cp _build/epub/FreeBSDHandbook.epub _build/html/files/FreeBSD_Handbook.epub
       - name: Upload artifact
