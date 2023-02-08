@@ -4,8 +4,7 @@
 
 - 各个名单的章程在本文件的底部给出。*在加入或向任何列表发送邮件之前，请阅读章程*。大多数列表的订阅者每天都会收到数以百计的与 FreeBSD 相关的信息，而这些章程和使用规则是为了保持列表的高信噪比。如果不这样做，邮件列表最终将无法成为项目的有效沟通媒介。
 
->
-> **注意**
+>**注意**
 >
 >*要测试向 FreeBSD 列表发送邮件的能力，请向 FreeBSD 测试邮件列表发送测试信息*。请不要向任何其他列表发送测试信息。
 
@@ -19,125 +18,129 @@
 
 *一般列表*。以下是任何人都可以自由（和鼓励）加入的一般列表。
 
-> 注：非SVN的URL前缀为：`https://lists.freebsd.org/subscription/`
-
 |列表|用途|
 |:---:|:---:|
-|freebsd-advocacy|报道 FreeBSD|
-|freebsd-announce|重要事件和项目里程碑（主持）。|
-|freebsd-arch|建筑和设计讨论|
-|freebsd-bugbusters|与维护 FreeBSD 问题报告数据库和相关工具有关的讨论|
-|freebsd-bugs|错误报告|
-|freebsd-chat|与FreeBSD社区有关的非技术性项目|
-|freebsd-chromium|FreeBSD 特有的 Chromium 问题|
-|freebsd-current|关于使用 FreeBSD-CURRENT 的讨论|
-|freebsd-isp|使用 FreeBSD 的互联网服务提供商的问题|
-|freebsd-jobs|FreeBSD 的就业和咨询机会|
-|freebsd-quarterly-calls|召开季度情况报告会（有主持人）。|
-|freebsd-questions|用户问题和技术支持|
-|freebsd-security-notifications|安全通知（有节制）|
-|freebsd-stable|关于使用 FreeBSD-STABLE 的讨论|
-|freebsd-test|在哪里发送测试信息，而不是发送到某个实际的列表中|
-|freebsd-women|女性的 FreeBSD 宣传|
+|[freebsd-advocacy](https://lists.freebsd.org/subscription/freebsd-advocacy)|报道 FreeBSD|
+|[freebsd-announce](https://lists.freebsd.org/subscription/freebsd-announce)|重要事件和项目里程碑（主持）。|
+|[freebsd-arch](https://lists.freebsd.org/subscription/freebsd-arch)|建筑和设计讨论|
+|[freebsd-bugbusters](https://lists.freebsd.org/subscription/freebsd-bugbusters)|与维护 FreeBSD 问题报告数据库和相关工具有关的讨论|
+|[freebsd-bugs](https://lists.freebsd.org/subscription/freebsd-bugs)|错误报告|
+|[freebsd-chat](https://lists.freebsd.org/subscription/freebsd-chat)|与FreeBSD社区有关的非技术性项目|
+|[freebsd-chromium](https://lists.freebsd.org/subscription/freebsd-chromium)|FreeBSD 特有的 Chromium 问题|
+|[freebsd-current](https://lists.freebsd.org/subscription/freebsd-current)|关于使用 FreeBSD-CURRENT 的讨论|
+|[freebsd-isp](https://lists.freebsd.org/subscription/freebsd-isp)|使用 FreeBSD 的互联网服务提供商的问题|
+|[freebsd-jobs](https://lists.freebsd.org/subscription/freebsd-jobs)|FreeBSD 的就业和咨询机会|
+|[freebsd-quarterly-calls](https://lists.freebsd.org/subscription/freebsd-quarterly-calls)|召开季度情况报告会（有主持人）。|
+|[freebsd-questions](https://lists.freebsd.org/subscription/freebsd-questions)|用户问题和技术支持|
+|[freebsd-security-notifications](https://lists.freebsd.org/subscription/freebsd-security-notifications)|安全通知（有节制）|
+|[freebsd-stable](https://lists.freebsd.org/subscription/freebsd-stable)|关于使用 FreeBSD-STABLE 的讨论|
+|[freebsd-test](https://lists.freebsd.org/subscription/freebsd-test)|在哪里发送测试信息，而不是发送到某个实际的列表中|
+|[freebsd-women](https://lists.freebsd.org/subscription/freebsd-women)|女性的 FreeBSD 宣传|
 
 *技术列表*。以下列表是用于技术讨论的。在加入每个列表或向其发送邮件之前，请仔细阅读每个列表的章程，因为对其使用和内容有明确的指导方针。
 
 |列表|用途|
 |:---:|:---:|
-|freebsd-acpi|ACPI 和电源管理开发|
-|freebsd-amd64|将 FreeBSD 移植到 AMD64 系统上（有人主持）|
-|freebsd-apache|关于 Apache 相关 port 的讨论|
-|freebsd-arm|将 FreeBSD 移植到 ARM® 处理器上|
-|freebsd-atm|在 FreeBSD 中使用 ATM 网络|
-|freebsd-bluetooth|在 FreeBSD 中使用蓝牙®技术|
-|freebsd-cloud|云平台上的 FreeBSD（EC2, GCE, Azure等）。|
-|freebsd-cluster|在集群环境中使用 FreeBSD|
-|freebsd-database|讨论 FreeBSD 下的数据库使用和开发问题|
-|freebsd-desktop|在桌面上使用和改进 FreeBSD|
-|dev-ci|来自持续集成服务器的构建和测试报告|
-|dev-reviews|FreeBSD 审查系统的通知|
-|freebsd-doc|创建 FreeBSD 的相关文件|
-|freebsd-drivers|为 FreeBSD 编写设备驱动|
-|freebsd-dtrace|在 FreeBSD 中使用和处理 DTrace|
-|freebsd-eclipse|FreeBSD 用户的 Eclipse IDE、工具、富客户端应用程序和 port。|
-|freebsd-elastic|针对 FreeBSD 的 ElasticSearch 讨论|
-|freebsd-embedded|在嵌入式应用中使用 FreeBSD|
-|freebsd-emulation|仿真其他系统，如 Linux/MS-DOS®/Windows®。|
-|freebsd-enlightenment|移植 Enlightenment 和 Enlightenment 应用程序|
-|freebsd-erlang|针对 FreeBSD 的 Erlang 讨论|
-|freebsd-firewire|FreeBSD 火线®（iLink，IEEE 1394）技术讨论|
-|freebsd-fortran|FreeBSD 上的 Fortran|
-|freebsd-fs|文件系统|
-|freebsd-games|支持 FreeBSD 上的游戏|
-|freebsd-gecko|Gecko 渲染引擎问题|
-|freebsd-geom|针对 GEOM 的讨论和实施|
-|freebsd-git|关于 FreeBSD 项目中 git 使用的讨论|
-|freebsd-gnome|移植 GNOME 和 GNOME 应用程序|
-|freebsd-hackers|一般性技术讨论|
-|freebsd-haskell|针对 FreeBSD 的 Haskell 问题和讨论|
-|freebsd-hardware|关于运行 FreeBSD 的硬件的一般性讨论|
-|freebsd-i18n|FreeBSD 的国际化|
-|freebsd-infiniband|FreeBSD 上的 Infiniband|
-|freebsd-ipfw|关于重新设计 IP 防火墙代码的技术讨论|
-|freebsd-isdn|ISDN 开发者|
-|freebsd-jail|关于 jail(8) 设施的讨论|
-|freebsd-java|Java™ 开发人员和将 JDK™ 移植到 FreeBSD 的人|
+|[freebsd-acpi](https://lists.freebsd.org/subscription/freebsd-acpi)|ACPI 和电源管理开发|
+|[freebsd-amd64](https://lists.freebsd.org/subscription/freebsd-amd64)|将 FreeBSD 移植到 AMD64 系统上（有人主持）|
+|[freebsd-apache](https://lists.freebsd.org/subscription/freebsd-apache)|关于 Apache 相关 port 的讨论|
+|[freebsd-arm](https://lists.freebsd.org/subscription/freebsd-arm)|将 FreeBSD 移植到 ARM® 处理器上|
+|[freebsd-atm](https://lists.freebsd.org/subscription/freebsd-atm)|在 FreeBSD 中使用 ATM 网络|
+|[freebsd-bluetooth](https://lists.freebsd.org/subscription/freebsd-bluetooth)|在 FreeBSD 中使用蓝牙®技术|
+|[freebsd-cloud](https://lists.freebsd.org/subscription/freebsd-cloud)|云平台上的 FreeBSD（EC2, GCE, Azure等）。|
+|[freebsd-cluster](https://lists.freebsd.org/subscription/freebsd-cluster)|在集群环境中使用 FreeBSD|
+|[freebsd-database](https://lists.freebsd.org/subscription/freebsd-database)|讨论 FreeBSD 下的数据库使用和开发问题|
+|[freebsd-desktop](https://lists.freebsd.org/subscription/freebsd-desktop)|在桌面上使用和改进 FreeBSD|
+|[dev-ci](https://lists.freebsd.org/subscription/dev-ci)|来自持续集成服务器的构建和测试报告|
+|[dev-reviews](https://lists.freebsd.org/subscription/dev-reviews)|FreeBSD 审查系统的通知|
+|[freebsd-doc](https://lists.freebsd.org/subscription/freebsd-doc)|创建 FreeBSD 的相关文件|
+|[freebsd-drivers](https://lists.freebsd.org/subscription/freebsd-drivers)|为 FreeBSD 编写设备驱动|
+|[freebsd-dtrace](https://lists.freebsd.org/subscription/freebsd-dtrace)|在 FreeBSD 中使用和处理 DTrace|
+|[freebsd-eclipse](https://lists.freebsd.org/subscription/freebsd-eclipse)|FreeBSD 用户的 Eclipse IDE、工具、富客户端应用程序和 port。|
+|[freebsd-elastic](https://lists.freebsd.org/subscription/freebsd-elastic)|针对 FreeBSD 的 ElasticSearch 讨论|
+|[freebsd-embedded](https://lists.freebsd.org/subscription/freebsd-embedded)|在嵌入式应用中使用 FreeBSD|
+|[freebsd-emulation](https://lists.freebsd.org/subscription/freebsd-emulation)|仿真其他系统，如 Linux/MS-DOS®/Windows®。|
+|[freebsd-enlightenment](https://lists.freebsd.org/subscription/freebsd-enlightenment)|移植 Enlightenment 和 Enlightenment 应用程序|
+|[freebsd-erlang](https://lists.freebsd.org/subscription/freebsd-erlang)|针对 FreeBSD 的 Erlang 讨论|
+|[freebsd-firewire](https://lists.freebsd.org/subscription/freebsd-firewire)|FreeBSD 火线®（iLink，IEEE 1394）技术讨论|
+|[freebsd-fortran](https://lists.freebsd.org/subscription/freebsd-fortran)|FreeBSD 上的 Fortran|
+|[freebsd-fs](https://lists.freebsd.org/subscription/freebsd-fs)|文件系统|
+|[freebsd-games](https://lists.freebsd.org/subscription/freebsd-games)|支持 FreeBSD 上的游戏|
+|[freebsd-gecko](https://lists.freebsd.org/subscription/freebsd-gecko)|Gecko 渲染引擎问题|
+|[freebsd-geom](https://lists.freebsd.org/subscription/freebsd-geom)|针对 GEOM 的讨论和实施|
+|[freebsd-git](https://lists.freebsd.org/subscription/freebsd-git)|关于 FreeBSD 项目中 git 使用的讨论|
+|[freebsd-gnome](https://lists.freebsd.org/subscription/freebsd-gnome)|移植 GNOME 和 GNOME 应用程序|
+|[freebsd-hackers](https://lists.freebsd.org/subscription/freebsd-hackers)|一般性技术讨论|
+|[freebsd-haskell](https://lists.freebsd.org/subscription/freebsd-haskell)|针对 FreeBSD 的 Haskell 问题和讨论|
+|[freebsd-hardware](https://lists.freebsd.org/subscription/freebsd-hardware)|关于运行 FreeBSD 的硬件的一般性讨论|
+|[freebsd-i18n](https://lists.freebsd.org/subscription/freebsd-i18n)|FreeBSD 的国际化|
+|[freebsd-infiniband](https://lists.freebsd.org/subscription/freebsd-infiniband)|FreeBSD 上的 Infiniband|
+|[freebsd-ipfw](https://lists.freebsd.org/subscription/freebsd-ipfw)|关于重新设计 IP 防火墙代码的技术讨论|
+|[freebsd-isdn](https://lists.freebsd.org/subscription/freebsd-isdn)|ISDN 开发者|
+|[freebsd-jail](https://lists.freebsd.org/subscription/freebsd-jail)|关于 jail(8) 设施的讨论|
+|[freebsd-java](https://lists.freebsd.org/subscription/freebsd-java)|Java™ 开发人员和将 JDK™ 移植到 FreeBSD 的人|
+
+|列表|用途|
+|:---:|:---:|
 |[freebsd-kde](https://mail.kde.org/mailman/listinfo/kde-freebsd)|移植 KDE 和 KDE 应用程序|
-|freebsd-mips|将 FreeBSD 移植到 MIPS® 上|
-|freebsd-mono|FreeBSD 上的 Mono 和 C# 应用程序|
-|freebsd-multimedia|多媒体应用|
-|freebsd-new-bus|关于总线结构的技术讨论|
-|freebsd-net|网络讨论和 TCP/IP 源代码|
-|freebsd-numerics|关于高质量实现 libm 功能的讨论|
-|freebsd-ocaml|针对 FreeBSD 的 OCAML 讨论|
-|freebsd-office|在 FreeBSD 上的办公应用|
-|freebsd-performance|高性能/负载安装的性能调整问题|
-|freebsd-perl|维护一些与 Perl 相关的 port|
-|freebsd-pf|关于数据包过滤器防火墙系统的讨论和问题|
-|freebsd-pkg|二进制包管理和包工具讨论|
-|freebsd-pkg-fallout|打包时的落差记录|
-|freebsd-pkgbase|包装 FreeBSD 基本系统|
-|freebsd-platforms|关于移植到非英特尔®架构平台的问题|
-|freebsd-ports|关于 port 集的讨论|
-|freebsd-ports-announce|关于 ports 的重要新闻和说明（有主持）。|
-|freebsd-ports-bugs|讨论 port 的缺陷/PR|
-|freebsd-ppc|将 FreeBSD 移植到 PowerPC® 上|
-|freebsd-proliant|关于 FreeBSD 在 HP ProLiant 服务器平台上的技术讨论|
-|freebsd-python|FreeBSD 特有的 Python 问题|
-|freebsd-rc|与 rc.d 系统及其发展有关的讨论|
-|freebsd-realtime|开发 FreeBSD 的实时扩展|
+|[freebsd-mips](https://lists.freebsd.org/subscription/freebsd-mips)|将 FreeBSD 移植到 MIPS® 上|
+|[freebsd-mono](https://lists.freebsd.org/subscription/freebsd-mono)|FreeBSD 上的 Mono 和 C# 应用程序|
+|[freebsd-multimedia](https://lists.freebsd.org/subscription/freebsd-multimedia)|多媒体应用|
+|[freebsd-new-bus](https://lists.freebsd.org/subscription/freebsd-new-bus)|关于总线结构的技术讨论|
+|[freebsd-net](https://lists.freebsd.org/subscription/freebsd-net)|网络讨论和 TCP/IP 源代码|
+|[freebsd-numerics](https://lists.freebsd.org/subscription/freebsd-numerics)|关于高质量实现 libm 功能的讨论|
+|[freebsd-ocaml](https://lists.freebsd.org/subscription/freebsd-ocaml)|针对 FreeBSD 的 OCAML 讨论|
+|[freebsd-office](https://lists.freebsd.org/subscription/freebsd-office)|在 FreeBSD 上的办公应用|
+|[freebsd-performance](https://lists.freebsd.org/subscription/freebsd-performance)|高性能/负载安装的性能调整问题|
+|[freebsd-perl](https://lists.freebsd.org/subscription/freebsd-perl)|维护一些与 Perl 相关的 port|
+|[freebsd-pf](https://lists.freebsd.org/subscription/freebsd-pf)|关于数据包过滤器防火墙系统的讨论和问题|
+|[freebsd-pkg](https://lists.freebsd.org/subscription/freebsd-pkg)|二进制包管理和包工具讨论|
+|[freebsd-pkg-fallout](https://lists.freebsd.org/subscription/freebsd-pkg-fallout)|打包时的落差记录|
+|[freebsd-pkgbase](https://lists.freebsd.org/subscription/freebsd-pkgbase)|包装 FreeBSD 基本系统|
+|[freebsd-platforms](https://lists.freebsd.org/subscription/freebsd-platforms)|关于移植到非英特尔®架构平台的问题|
+|[freebsd-ports](https://lists.freebsd.org/subscription/freebsd-ports)|关于 port 集的讨论|
+|[freebsd-ports-announce](https://lists.freebsd.org/subscription/freebsd-ports-announce)|关于 ports 的重要新闻和说明（有主持）。|
+|[freebsd-ports-bugs](https://lists.freebsd.org/subscription/freebsd-ports-bugs)|讨论 port 的缺陷/PR|
+|[freebsd-ppc](https://lists.freebsd.org/subscription/freebsd-ppc)|将 FreeBSD 移植到 PowerPC® 上|
+|[freebsd-proliant](https://lists.freebsd.org/subscription/freebsd-proliant)|关于 FreeBSD 在 HP ProLiant 服务器平台上的技术讨论|
+|[freebsd-python](https://lists.freebsd.org/subscription/freebsd-python)|FreeBSD 特有的 Python 问题|
+|[freebsd-rc](https://lists.freebsd.org/subscription/freebsd-rc)|与 rc.d 系统及其发展有关的讨论|
+|[freebsd-realtime](https://lists.freebsd.org/subscription/freebsd-realtime)|开发 FreeBSD 的实时扩展|
 |[freebsd-risc](https://docs.freebsd.org/en/books/handbook/eresources/%7Bfreebsd-risc-url%7D)|将 FreeBSD 移植到 RISC-V® 系统|
-|freebsd-ruby|针对 FreeBSD 的 Ruby 讨论|
-|freebsd-scsi|SCSI 子系统|
-|freebsd-security|影响 FreeBSD 的安全问题|
-|freebsd-snapshots|FreeBSD 开发快照公告|
-|freebsd-sparc64|移植 FreeBSD 到基于 SPARC® 的系统|
-|freebsd-standards|FreeBSD 符合 C99 和 POSIX® 的标准|
-|freebsd-sysinstall|sysinstall(8)开发|
-|freebsd-tcltk|针对 FreeBSD 的 Tcl/Tk 讨论|
-|freebsd-testing|在 FreeBSD 上测试|
-|freebsd-tex|将 TeX 和它的应用移植到 FreeBSD 上|
-|freebsd-threads|FreeBSD 中的线程|
-|freebsd-tokenring|在FreeBSD 中支持 Token Ring|
-|freebsd-toolchain|维护 FreeBSD 的集成工具链|
-|freebsd-translators|翻译 FreeBSD 文档和程序|
-|freebsd-transport|对FreeBSD 中传输级网络协议的讨论|
-|freebsd-usb|讨论 FreeBSD 对 USB 的支持|
-|freebsd-virtualization|讨论 FreeBSD 支持的各种虚拟化技术|
-|freebsd-vuxml|关于 VuXML 基础设施的讨论|
-|freebsd-x11|对 FreeBSD 上的 X11 进行维护和支持|
-|freebsd-xen|讨论 FreeBSD 对Xen™ 的移植——实现和使用|
-|freebsd-xfce|XFCE for FreeBSD——移植和维护|
-|freebsd-zope|Zope for FreeBSD——移植和维护|
+|[freebsd-ruby](https://lists.freebsd.org/subscription/freebsd-ruby)|针对 FreeBSD 的 Ruby 讨论|
+|[freebsd-scsi](https://lists.freebsd.org/subscription/freebsd-scsi)|SCSI 子系统|
+|[freebsd-security](https://lists.freebsd.org/subscription/freebsd-security)|影响 FreeBSD 的安全问题|
+
+|列表|用途|
+|:---:|:---:|
+|[freebsd-snapshots](https://lists.freebsd.org/subscription/freebsd-snapshots)|FreeBSD 开发快照公告|
+|[freebsd-sparc64](https://lists.freebsd.org/subscription/freebsd-sparc64)|移植 FreeBSD 到基于 SPARC® 的系统|
+|[freebsd-standards](https://lists.freebsd.org/subscription/freebsd-standards)|FreeBSD 符合 C99 和 POSIX® 的标准|
+|[freebsd-sysinstall](https://lists.freebsd.org/subscription/freebsd-sysinstall)|sysinstall(8)开发|
+|[freebsd-tcltk](https://lists.freebsd.org/subscription/freebsd-tcltk)|针对 FreeBSD 的 Tcl/Tk 讨论|
+|[freebsd-testing](https://lists.freebsd.org/subscription/freebsd-testing)|在 FreeBSD 上测试|
+|[freebsd-tex](https://lists.freebsd.org/subscription/freebsd-tex)|将 TeX 和它的应用移植到 FreeBSD 上|
+|[freebsd-threads](https://lists.freebsd.org/subscription/freebsd-threads)|FreeBSD 中的线程|
+|[freebsd-tokenring](https://lists.freebsd.org/subscription/freebsd-tokenring)|在FreeBSD 中支持 Token Ring|
+|[freebsd-toolchain](https://lists.freebsd.org/subscription/freebsd-toolchain)|维护 FreeBSD 的集成工具链|
+|[freebsd-translators](https://lists.freebsd.org/subscription/freebsd-translators)|翻译 FreeBSD 文档和程序|
+|[freebsd-transport](https://lists.freebsd.org/subscription/freebsd-transport)|对FreeBSD 中传输级网络协议的讨论|
+|[freebsd-usb](https://lists.freebsd.org/subscription/freebsd-usb)|讨论 FreeBSD 对 USB 的支持|
+|[freebsd-virtualization](https://lists.freebsd.org/subscription/freebsd-virtualization)|讨论 FreeBSD 支持的各种虚拟化技术|
+|[freebsd-vuxml](https://lists.freebsd.org/subscription/freebsd-vuxml)|关于 VuXML 基础设施的讨论|
+|[freebsd-x11](https://lists.freebsd.org/subscription/freebsd-x11)|对 FreeBSD 上的 X11 进行维护和支持|
+|[freebsd-xen](https://lists.freebsd.org/subscription/freebsd-xen)|讨论 FreeBSD 对Xen™ 的移植——实现和使用|
+|[freebsd-xfce](https://lists.freebsd.org/subscription/freebsd-xfce)|XFCE for FreeBSD——移植和维护|
+|[freebsd-zope](https://lists.freebsd.org/subscription/freebsd-zope)|Zope for FreeBSD——移植和维护|
 
 *有限列表*。以下列表是为更专业的（和要求更高的）听众而设的，一般人可能不感兴趣。在加入这些有限列表之前，在技术列表中建立一个存在感也是一个好主意，以便了解其中的沟通礼仪。
 
 |列表|用途|
 |:---:|:---:|
-|freebsd-hubs|运行镜像站点的人（基础设施支持）。|
-|freebsd-user-groups|用户组协调|
-|freebsd-wip-status|FreeBSD 的工作进展情况|
-|freebsd-wireless|讨论 802.11 协议栈、工具、设备驱动开发|
+|[freebsd-hubs](https://lists.freebsd.org/subscription/freebsd-hubs)|运行镜像站点的人（基础设施支持）。|
+|[freebsd-user-groups](https://lists.freebsd.org/subscription/freebsd-user-groups)|用户组协调|
+|[freebsd-wip-status](https://lists.freebsd.org/subscription/freebsd-wip-status)|FreeBSD 的工作进展情况|
+|[freebsd-wireless](https://lists.freebsd.org/subscription/freebsd-wireless)|讨论 802.11 协议栈、工具、设备驱动开发|
 
 *摘要列表*。上述所有的列表都是以摘要形式提供的。订阅了一个列表以后，可以在账户选项部分改变摘要选项。
 
@@ -145,49 +148,46 @@
 
 |列表|资源地址|说明|
 |:---:|:---:|:---:|
-|dev-commits-doc-all|**/usr/doc**|对文档库的所有更改|
-|dev-commits-ports-all|**/usr/ports**|对 ports 仓库的所有修改|
-|dev-commits-ports-main|**/usr/ports**|对 ports 仓库的“main”分支的所有改动|
-|dev-commits-ports-branches|**/usr/ports**|对 ports 仓库的季度分支的所有改动|
-|dev-commits-src-all|**/usr/src**|对 src 版本库的所有修改|
-|dev-commits-src-main|**/usr/src**|对 src 仓库的“main”分支 (即 FreeBSD-CURRENT 分支) 所做的所有修改|
-|dev-commits-src-branches|**/usr/src**|对 src 版本库所有稳定分支的所有修改|
+|[dev-commits-doc-all](https://lists.freebsd.org/subscription/dev-commits-doc-all)|**/usr/doc**|对文档库的所有更改|
+|[dev-commits-ports-all](https://lists.freebsd.org/subscription/dev-commits-ports-all)|**/usr/ports**|对 ports 仓库的所有修改|
+|[dev-commits-ports-main](https://lists.freebsd.org/subscription/dev-commits-ports-main)|**/usr/ports**|对 ports 仓库的“main”分支的所有改动|
+|[dev-commits-ports-branches](https://lists.freebsd.org/subscription/dev-commits-ports-branches)|**/usr/ports**|对 ports 仓库的季度分支的所有改动|
+|[dev-commits-src-all](https://lists.freebsd.org/subscription/dev-commits-src-all)|**/usr/src**|对 src 版本库的所有修改|
+|[dev-commits-src-main](https://lists.freebsd.org/subscription/dev-commits-src-main)|**/usr/src**|对 src 仓库的“main”分支 (即 FreeBSD-CURRENT 分支) 所做的所有修改|
+|[dev-commits-src-branches](https://lists.freebsd.org/subscription/dev-commits-src-branches)|**/usr/src**|对 src 版本库所有稳定分支的所有修改|
 
 SVN 列表。以下列表是为那些对查看SVN日志信息感兴趣的人准备的，这些日志信息是对源代码树的各个区域的修改。
 
->
-> **注意**
+>**注意**
 >
 >只有 SVN 日志信息会被发送到 SVN 列表。在 SVN 向 Git 迁移后，以下列表不再接收新的提交信息，并且无法订阅。这些列表的地址都指向它们各自的存档。
 
-> 注：SVM 的URL前缀为：`https://lists.freebsd.org/pipermail/`
-
 |列表|资源地址|说明|
 |:---:|:---:|:---:|
-|svn-doc-all|**/usr/doc**|对 doc Subversion 库的所有修改（除了 **user、projects** 和 **translations**）。|
-|svn-doc-head|**/usr/doc**|对 doc Subversion 库的“head”分支的所有修改|
-|svn-doc-projects|**/usr/doc/projects**|对doc Subversion 库的 **projects** 的所有修改|
-|svn-doc-svnadmin|**/usr/doc**|对 doc Subversion 库的管理脚本、钩子和其他配置数据的所有更改|
-|svn-ports-all|**/usr/ports**|对 ports Subversion 仓库的所有修改|
-|svn-ports-head|**/usr/ports**|对 ports Subversion 仓库的“head”分支的所有修改|
-|svn-ports-svnadmin|**/usr/ports**|对 ports Subversion 仓库的管理脚本、钩子和其他配置数据的所有修改|
-|svn-src-all|**/usr/src**|对src Subversion版本库的所有修改（除了用户和项目）。|
-|svn-src-head|**/usr/src**|对 src Subversion 仓库的“head”分支 (FreeBSD-CURRENT 分支) 的所有修改|
-|svn-src-projects|**/usr/projects**|对 src Subversion 版本库的 **projects** 区域的所有更改|
-|svn-src-release|**/usr/src**|对 src Subversion 版本库的发布区域的所有修改|
-|svn-src-releng|**/usr/src**|对 src Subversion 仓库的 **releng** 分支（安全/发布工程分支）的所有修改。|
-|svn-src-stable|**/usr/src**|对 src Subversion 仓库的所有稳定分支的所有更改|
-|svn-src-stable-6|**/usr/src**|对 src Subversion 仓库的 **stable/6** 分支的所有更改|
-|svn-src-stable-7|**/usr/src**|对 src Subversion 仓库的 **stable/7** 分支的所有更改|
-|svn-src-stable-8|**/usr/src**|对 src Subversion 仓库的 **stable/8** 分支的所有更改|
-|svn-src-stable-9|**/usr/src**|对 src Subversion 仓库的 **stable/9** 分支的所有更改|
-|svn-src-stable-10|**/usr/src**|对 src Subversion 仓库的 **stable/10** 分支的所有更改|
-|svn-src-stable-11|**/usr/src**|对 src Subversion 仓库的 **stable/11** 分支的所有更改|
-|svn-src-stable-12|**/usr/sr**|对 src Subversion 仓库的 **stable/12** 分支的所有更改|
-|svn-src-stable-other|**/usr/src**|对 src Subversion 仓库的旧 **stable** 分支的所有更改|
-|svn-src-svnadmin|**/usr/src**|对 src Subversion 版本库的管理脚本、钩子和其他配置数据的所有更改|
-|svn-src-user|**/usr/src**|对 src Subversion 仓库的实验性的 **user** 区的所有更改|
-|svn-src-vendor|**/usr/src**|对 src Subversion 仓库的供应商工作区的所有更改|
+|[svn-doc-all](https://lists.freebsd.org/pipermail/svn-doc-all)|**/usr/doc**|对 doc Subversion 库的所有修改（除了 **user、projects** 和 **translations**）。|
+|[svn-doc-head](https://lists.freebsd.org/pipermail/svn-doc-head)|**/usr/doc**|对 doc Subversion 库的“head”分支的所有修改|
+|[svn-doc-projects](https://lists.freebsd.org/pipermail/svn-doc-projects)|**/usr/doc/projects**|对doc Subversion 库的 **projects** 的所有修改|
+|[svn-doc-svnadmin](https://lists.freebsd.org/pipermail/svn-doc-svnadmin)|**/usr/doc**|对 doc Subversion 库的管理脚本、钩子和其他配置数据的所有更改|
+|[svn-ports-all](https://lists.freebsd.org/pipermail/svn-ports-all)|**/usr/ports**|对 ports Subversion 仓库的所有修改|
+|[svn-ports-head](https://lists.freebsd.org/pipermail/svn-ports-head)|**/usr/ports**|对 ports Subversion 仓库的“head”分支的所有修改|
+|[svn-ports-svnadmin](https://lists.freebsd.org/pipermail/svn-ports-svnadmin)|**/usr/ports**|对 ports Subversion 仓库的管理脚本、钩子和其他配置数据的所有修改|
+|[svn-src-all](https://lists.freebsd.org/pipermail/svn-src-all)|**/usr/src**|对src Subversion版本库的所有修改（除了用户和项目）。|
+|[svn-src-head](https://lists.freebsd.org/pipermail/svn-src-head)|**/usr/src**|对 src Subversion 仓库的“head”分支 (FreeBSD-CURRENT 分支) 的所有修改|
+|[svn-src-projects](https://lists.freebsd.org/pipermail/svn-src-projects)|**/usr/projects**|对 src Subversion 版本库的 **projects** 区域的所有更改|
+|[svn-src-release](https://lists.freebsd.org/pipermail/svn-src-release)|**/usr/src**|对 src Subversion 版本库的发布区域的所有修改|
+|[svn-src-releng](https://lists.freebsd.org/pipermail/svn-src-releng)|**/usr/src**|对 src Subversion 仓库的 **releng** 分支（安全/发布工程分支）的所有修改。|
+|[svn-src-stable](https://lists.freebsd.org/pipermail/svn-src-stable)|**/usr/src**|对 src Subversion 仓库的所有稳定分支的所有更改|
+|[svn-src-stable-6](https://lists.freebsd.org/pipermail/svn-src-stable-6)|**/usr/src**|对 src Subversion 仓库的 **stable/6** 分支的所有更改|
+|[svn-src-stable-7](https://lists.freebsd.org/pipermail/svn-src-stable-7)|**/usr/src**|对 src Subversion 仓库的 **stable/7** 分支的所有更改|
+|[svn-src-stable-8](https://lists.freebsd.org/pipermail/svn-src-stable-8)|**/usr/src**|对 src Subversion 仓库的 **stable/8** 分支的所有更改|
+|[svn-src-stable-9](https://lists.freebsd.org/pipermail/svn-src-stable-9)|**/usr/src**|对 src Subversion 仓库的 **stable/9** 分支的所有更改|
+|[svn-src-stable-10](https://lists.freebsd.org/pipermail/svn-src-stable-10)|**/usr/src**|对 src Subversion 仓库的 **stable/10** 分支的所有更改|
+|[svn-src-stable-11](https://lists.freebsd.org/pipermail/svn-src-stable-11)|**/usr/src**|对 src Subversion 仓库的 **stable/11** 分支的所有更改|
+|[svn-src-stable-12](https://lists.freebsd.org/pipermail/svn-src-stable-12)|**/usr/sr**|对 src Subversion 仓库的 **stable/12** 分支的所有更改|
+|[svn-src-stable-other](https://lists.freebsd.org/pipermail/svn-src-stable-other)|**/usr/src**|对 src Subversion 仓库的旧 **stable** 分支的所有更改|
+|[svn-src-svnadmin](https://lists.freebsd.org/pipermail/svn-src-svnadmin)|**/usr/src**|对 src Subversion 版本库的管理脚本、钩子和其他配置数据的所有更改|
+|[svn-src-user](https://lists.freebsd.org/pipermail/svn-src-user)|**/usr/src**|对 src Subversion 仓库的实验性的 **user** 区的所有更改|
+|[svn-src-vendor](https://lists.freebsd.org/pipermail/svn-src-vendor)|**/usr/src**|对 src Subversion 仓库的供应商工作区的所有更改|
 
 ## C.2.2.如何订阅
 

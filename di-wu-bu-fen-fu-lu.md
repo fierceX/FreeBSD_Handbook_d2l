@@ -14,14 +14,9 @@ fu-lu-a.-huo-qu-freebsd/a.4.cd-he-dvd-tao-zhuang
 :maxdepth: 1
 
 fu-lu-b.-shu-mu/b.1.freebsd-xiang-guan-shu-ji
-fu-lu-b.-shu-mu/b.2.-yong-hu-zhi-nan
-fu-lu-b.-shu-mu/b.3.-guan-li-zhi-nan
+fu-lu-b.-shu-mu/b.2.-an-quan-xing-can-kao-wen-xian
+fu-lu-b.-shu-mu/b.3.unix-li-shi
 fu-lu-b.-shu-mu/b.4.-kai-fa-zhi-nan
-fu-lu-b.-shu-mu/b.5.-shen-ru-cao-zuo-xi-tong
-fu-lu-b.-shu-mu/b.6.-an-quan-xing-can-kao-wen-xian
-fu-lu-b.-shu-mu/b.7.-ying-jian-can-kao
-fu-lu-b.-shu-mu/b.8.-unix-li-shi
-fu-lu-b.-shu-mu/b.9.-qi-kan-he-za-zhi
 ```
 ## 附录 C. 网络资源
 ```toc

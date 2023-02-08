@@ -12,8 +12,9 @@
 
 - 介绍了 X，UNIX® window 系统，并详细说明了如何配置一个让用户更有工作效率的桌面环境。
 
-正文中的前向引用数量已经保持在最低水平，以尽量减少翻页的可能，因此你可以流畅地阅读此部分。
+- 介绍了 Wayland，一个新的 UNIX(R) 的显示服务器。
 
+正文中的前向引用数量已经保持在最低水平，以尽量减少翻页的可能，因此你可以流畅地阅读此部分。
 
 ## 第一章 简介
 ```toc
@@ -36,9 +37,8 @@ di-2-zhang-an-zhuang-freebsd/2.5.-shi-yong-bsdinstall
 di-2-zhang-an-zhuang-freebsd/2.6.-fen-pei-ci-pan-kong-jian
 di-2-zhang-an-zhuang-freebsd/2.7.-huo-qu-an-zhuang-wen-jian
 di-2-zhang-an-zhuang-freebsd/2.8.-zhang-hu-shi-qu-fu-wu-he-an-quan
-di-2-zhang-an-zhuang-freebsd/2.9.-wang-luo-jie-kou
-di-2-zhang-an-zhuang-freebsd/2.10.-gu-zhang-pai-chu
-di-2-zhang-an-zhuang-freebsd/2.11.-shi-yong-live-cd
+di-2-zhang-an-zhuang-freebsd/2.9.-gu-zhang-pai-chu
+di-2-zhang-an-zhuang-freebsd/2.10.-shi-yong-live-cd
 ```
 
 ## 第三章 FreeBSD 基础
