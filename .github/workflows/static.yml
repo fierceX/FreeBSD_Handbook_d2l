@@ -60,6 +60,11 @@ jobs:
         with:
           name: EPUB
           path: '_build/epub/FreeBSDHandbook.epub'
+      - name: Upload html
+        uses: actions/upload-artifact@v3
+        with:
+          name: html
+          path: '_build/html'
       - name: cp files
         run: |
           mkdir _build/html/files
