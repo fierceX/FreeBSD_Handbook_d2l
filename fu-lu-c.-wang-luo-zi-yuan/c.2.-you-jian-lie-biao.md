@@ -22,7 +22,7 @@
 |:---:|:---:|
 |[freebsd-advocacy](https://lists.freebsd.org/subscription/freebsd-advocacy)|报道 FreeBSD|
 |[freebsd-announce](https://lists.freebsd.org/subscription/freebsd-announce)|重要事件和项目里程碑（主持）。|
-|[freebsd-arch](https://lists.freebsd.org/subscription/freebsd-arch)|建筑和设计讨论|
+|[freebsd-arch](https://lists.freebsd.org/subscription/freebsd-arch)|架构设计讨论|
 |[freebsd-bugbusters](https://lists.freebsd.org/subscription/freebsd-bugbusters)|与维护 FreeBSD 问题报告数据库和相关工具有关的讨论|
 |[freebsd-bugs](https://lists.freebsd.org/subscription/freebsd-bugs)|错误报告|
 |[freebsd-chat](https://lists.freebsd.org/subscription/freebsd-chat)|与FreeBSD社区有关的非技术性项目|
@@ -79,9 +79,6 @@
 |[freebsd-isdn](https://lists.freebsd.org/subscription/freebsd-isdn)|ISDN 开发者|
 |[freebsd-jail](https://lists.freebsd.org/subscription/freebsd-jail)|关于 jail(8) 设施的讨论|
 |[freebsd-java](https://lists.freebsd.org/subscription/freebsd-java)|Java™ 开发人员和将 JDK™ 移植到 FreeBSD 的人|
-
-|列表|用途|
-|:---:|:---:|
 |[freebsd-kde](https://mail.kde.org/mailman/listinfo/kde-freebsd)|移植 KDE 和 KDE 应用程序|
 |[freebsd-mips](https://lists.freebsd.org/subscription/freebsd-mips)|将 FreeBSD 移植到 MIPS® 上|
 |[freebsd-mono](https://lists.freebsd.org/subscription/freebsd-mono)|FreeBSD 上的 Mono 和 C# 应用程序|
@@ -506,7 +503,7 @@ DTrace 是 FreeBSD 的一个集成组件，它提供了一个在运行时理解�
 
 *二进制包管理和包工具讨论*
 
-讨论通过使用二进制包来安装软件来管理 FreeBSD 系统的各个方面，包括二进制包的工具包和格式，它们在 FreeBSD 中的开发和支持，包库管理，以及第三方包。
+讨论通过使用二进制包来安装软件和管理 FreeBSD 系统的各个方面，包括二进制包的工具包和格式，它们在 FreeBSD 中的开发和支持，包库管理，以及第三方包。
 
 请注意，对不能正确生成软件包的 port 的讨论，通常应被视为 port 的问题，因而不适合这个列表。
 

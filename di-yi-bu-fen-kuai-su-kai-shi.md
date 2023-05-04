@@ -78,14 +78,10 @@ di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.8.-ru-he-chu-li
 :maxdepth: 1
 
 di-5-zhang-xwindow-xi-tong/5.1.-gai-shu
-di-5-zhang-xwindow-xi-tong/5.2.-shu-yu
-di-5-zhang-xwindow-xi-tong/5.3.-an-zhuang-xorg
+di-5-zhang-xwindow-xi-tong/5.2.-an-zhuang-xorg
+di-5-zhang-xwindow-xi-tong/5.3.-xian-ka-qu-dong
 di-5-zhang-xwindow-xi-tong/5.4.-xorg-pei-zhi
 di-5-zhang-xwindow-xi-tong/5.5.-zai-x11-zhong-shi-yong-zi-ti
-di-5-zhang-xwindow-xi-tong/5.6.x-xian-shi-guan-li-qi
-di-5-zhang-xwindow-xi-tong/5.7.-zhuo-mian-huan-jing
-di-5-zhang-xwindow-xi-tong/5.8.-shi-yong-compiz-fusion
-di-5-zhang-xwindow-xi-tong/5.9.-gu-zhang-pai-chu
 ```
 
 ## 第六章 FreeBSD 中的 Wayland

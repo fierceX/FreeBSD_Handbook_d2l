@@ -15,15 +15,17 @@
 其中的一些章节建议预读相关文件，这一点在每章开头的提要中都有说明。
 
 
-## 第七章 桌面应用程序
+## 第七章 桌面环境
 ```toc
 :maxdepth: 1
 
-di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.1.-gai-shu
-di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.2.-liu-lan-qi
-di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.3.-sheng-chan-li-gong-ju
-di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.4.-wen-dang-yue-du-qi
-di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.5.-cai-wu
+di-7-zhang-zhuo-mian-huan-jing/7.1.-gai-shu
+di-7-zhang-zhuo-mian-huan-jing/7.2.-zhuo-mian-huan-jing
+di-7-zhang-zhuo-mian-huan-jing/7.3.-liu-lan-qi
+di-7-zhang-zhuo-mian-huan-jing/7.4.-kai-fa-gong-ju
+di-7-zhang-zhuo-mian-huan-jing/7.5.-zhuo-mian-sheng-chan-li-gong-ju
+di-7-zhang-zhuo-mian-huan-jing/7.6.-wen-dang-yue-du-qi
+di-7-zhang-zhuo-mian-huan-jing/7.7.-cai-wu
 ```
 ## 第八章 多媒体
 ```toc
@@ -31,11 +33,10 @@ di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.5.-cai-wu
 
 di-8-zhang-duo-mei-ti/8.1.-gai-shu
 di-8-zhang-duo-mei-ti/8.2.-she-zhi-sheng-ka
-di-8-zhang-duo-mei-ti/8.3.mp3-yin-pin
-di-8-zhang-duo-mei-ti/8.4.-shi-pin-bo-fang
-di-8-zhang-duo-mei-ti/8.5.-dian-shi-ka
-di-8-zhang-duo-mei-ti/8.6.mythtv
-di-8-zhang-duo-mei-ti/8.7.-tu-xiang-sao-miao-yi
+di-8-zhang-duo-mei-ti/8.3.-yin-pin-bo-fang-qi
+di-8-zhang-duo-mei-ti/8.4.-shi-pin-bo-fang-qi
+di-8-zhang-duo-mei-ti/8.5.-shi-pin-hui-yi
+di-8-zhang-duo-mei-ti/8.6.-tu-xiang-sao-miao-yi
 ```
 ## 第九章 配置 FreeBSD 内核
 ```toc
