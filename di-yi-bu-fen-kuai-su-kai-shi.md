@@ -1,20 +1,16 @@
 # 第一部分：快速开始
 
-手册中的这一部分是为刚接触 FreeBSD 的用户及管理员准备的。这些章节：
+本手册的这部分适用于对 FreeBSD 新手和管理员。这些章节：
 
-- 对 FreeBSD 进行了简要介绍。
+- 介绍 FreeBSD。
+- 引导读者完成安装过程。
+- 教授 UNIX® 的基础知识。
+- 展示如何安装大量适用于 FreeBSD 的第三方应用程序。
+- 介绍 X，即 UNIX® 窗口系统，并详细说明如何配置能让用户更加高效的桌面环境。
+- 介绍 Wayland，一个新的 UNIX® 显示服务器。
 
-- 指导读者完成安装过程。
+文本中的正向引用数量被尽量减少，以便这一部分可以从头到尾地阅读，最大程度地减少翻页。
 
-- 讲授 UNIX® 基础知识和基本原理。
-
-- 展示如何安装大量可用于 FreeBSD 的第三方应用程序。
-
-- 介绍了 X，UNIX® window 系统，并详细说明了如何配置一个让用户更有工作效率的桌面环境。
-
-- 介绍了 Wayland，一个新的 UNIX(R) 的显示服务器。
-
-正文中的前向引用数量已经保持在最低水平，以尽量减少翻页的可能，因此你可以流畅地阅读此部分。
 
 ## 第一章 简介
 ```toc
@@ -53,7 +49,7 @@ di-3-zhang-freebsd-ji-chu/3.5.-mu-lu-jie-gou
 di-3-zhang-freebsd-ji-chu/3.6.-ci-pan-jie-gou
 di-3-zhang-freebsd-ji-chu/3.7.-wen-jian-xi-tong-de-gua-zai-yu-xie-zai
 di-3-zhang-freebsd-ji-chu/3.8.-jin-cheng-he-shou-hu-jin-cheng
-di-3-zhang-freebsd-ji-chu/3.9.shell
+di-3-zhang-freebsd-ji-chu/3.9.-shell
 di-3-zhang-freebsd-ji-chu/3.10.-wen-ben-bian-ji-qi
 di-3-zhang-freebsd-ji-chu/3.11.-she-bei-he-she-bei-jie-dian
 di-3-zhang-freebsd-ji-chu/3.12.-shou-ce-ye
