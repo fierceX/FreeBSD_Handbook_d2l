@@ -39,7 +39,7 @@ Subversion 可以从 ports 中安装:
 
 > **警告**
 >
-> 在第一次使用 `checkout` 之前，移动或删除现有的目标目录。在现有的非 `svn` 目录上进行检出会导致现有文件和从版本库带入的文件之间的冲突。\*\*
+> 在第一次使用 `checkout` 之前，移动或删除现有的目标目录。在现有的非 `svn` 目录上进行检出会导致现有文件和从版本库带入的文件之间的冲突。
 
 Subversion 使用 URL 来指定一个版本库，其形式为 _protocol://hostname/path_。路径的第一个组成部分是要访问的 FreeBSD 代码库。有三个不同的版本库，base 是 FreeBSD 基本系统的源代码，ports 是 ports，doc 是文档。例如，URL https://svn.FreeBSD.org/base/head/ 使用 https 协议指定了 src 代码库的主分支。
 
