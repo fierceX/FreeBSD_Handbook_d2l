@@ -186,7 +186,7 @@ d2lbook生成静态页面：[FreeBSD_Handbook_d2l](https://fiercex.github.io/Fre
 
 扫码关注微信公众号：
 
-![扫码关注微信公众号](./.gitbook/assets/qr.png)
+![扫码关注微信公众号](./img/assets/qr.png)
 
 ### FreeBSD 中文社区 寄言：
 
