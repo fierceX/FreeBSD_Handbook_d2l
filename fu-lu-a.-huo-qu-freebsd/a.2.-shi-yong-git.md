@@ -25,6 +25,7 @@ Git 可以从 ports 中安装，也可以作为一个软件包安装。
 Git 使用链接来指定一个仓库。有三个不同的仓库，`src` 是指 FreeBSD 系统的源代码，`doc` 是指文档，而 `ports` 则是指 FreeBSD ports。这三个仓库都可以通过两种不同的协议到达：HTTPS 和 SSH。例如，链接 <https://git.FreeBSD.org/src.git> 指定了 src 仓库的主分支，并使用了 https 协议。
 
 **表 1. FreeBSD Git 仓库的链接表**
+
 | 项目 | **Git 链接** |
 | :-------------------------------: | :----------------------------------------------------------: |
 | 只读 src 仓库，使用 HTTPS | [https://git.FreeBSD.org/src.git](https://git.freebsd.org/src.git) |
